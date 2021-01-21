@@ -3,7 +3,7 @@ AFRAME.registerComponent("tour", {
     this.placesContainer = this.el;
     this.createCards();
   },
-
+//comment added
   createCards: function () {
     const thumbNailsRef = [
       {
